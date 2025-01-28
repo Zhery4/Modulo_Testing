@@ -1,7 +1,7 @@
 import { renderHook } from "@testing-library/react";
 import { useConfirmationDialog } from "./confirmation-dialog.hook";
 
-describe(('ConfirmationDialogHook'), () => {
+describe(('ConfirmationDialogHook Tests'), () => {
 
     it('Test initial hook state', () => {
         // Arrange
